@@ -11,7 +11,7 @@ body {
     width: 600px
 }
 
-.odin-recipes {
+.title {
     background-color: rgb(131, 67, 61);
     height: 100px;
     text-align: center;
@@ -106,4 +106,48 @@ body {
     width: 320px;
     float: right;
     text-align: center
+}
+
+/* chocolate crinkle cookies */
+
+.cccimgdiv {
+    background-color: rgb(214, 171, 152);
+    height: 300px;
+    text-align: center
+}
+
+.cccimg2 {
+    width: 300px;
+    height: auto
+}
+
+.description {
+    background-color: rgb(131, 67, 61);
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 22px;
+    color: rgb(250, 222, 214);
+    margin: 0
+}
+
+.ccctext {
+    background-color: rgb(214, 171, 152);
+    height: 150px;
+    padding: 5px;
+    text-align: center;
+}
+
+.cccing {
+    background-color: rgb(214, 171, 152);
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+}
+
+.cccsteps {
+    background-color: rgb(214, 171, 152);
+    height: 250px;
+    padding: 5px;
+    text-align: center;
 }
