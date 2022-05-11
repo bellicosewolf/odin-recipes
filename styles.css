@@ -151,3 +151,37 @@ body {
     padding: 5px;
     text-align: center;
 }
+
+/* homemade pound cake*/
+
+.hpcimgdiv {
+    background-color: rgb(214, 171, 152);
+    height: 300px;
+    text-align: center
+}
+
+.hpcimg2 {
+    width: 300px;
+    height: auto
+}
+
+.hpctext {
+    background-color: rgb(214, 171, 152);
+    height: 70px;
+    padding: 5px;
+    text-align: center;
+}
+
+.hpcing {
+    background-color: rgb(214, 171, 152);
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+}
+
+.hpcsteps {
+    background-color: rgb(214, 171, 152);
+    height: 350px;
+    padding: 5px;
+    text-align: center;
+}
