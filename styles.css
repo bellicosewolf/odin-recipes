@@ -185,3 +185,37 @@ body {
     padding: 5px;
     text-align: center;
 }
+
+/* apple pie */
+
+.apimgdiv {
+    background-color: rgb(214, 171, 152);
+    height: 300px;
+    text-align: center
+}
+
+.apimg2 {
+    width: 300px;
+    height: auto
+}
+
+.aptext {
+    background-color: rgb(214, 171, 152);
+    height: 70px;
+    padding: 5px;
+    text-align: center;
+}
+
+.aping {
+    background-color: rgb(214, 171, 152);
+    height: 220px;
+    padding: 5px;
+    text-align: center;
+}
+
+.apsteps {
+    background-color: rgb(214, 171, 152);
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+}
