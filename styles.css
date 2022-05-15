@@ -11,7 +11,7 @@ body {
     width: 600px
 }
 
-.title .headertext {
+.title {
     background-color: rgb(131, 67, 61);
     height: 100px;
     text-align: center;
